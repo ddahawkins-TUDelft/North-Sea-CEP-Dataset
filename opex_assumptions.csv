@@ -1,0 +1,751 @@
+Technology,Parameter,Scenario,Year,Value,Unit,Source
+"Solar PV, Rooftop",OPEX_fixed,National Trends,2030,10700,€/MW/a,TYNDP 2024
+"Solar PV, Rooftop",OPEX_fixed,Distributed Energy,2030,10593,€/MW/a,TYNDP 2024
+"Solar PV, Rooftop",OPEX_fixed,Global Ambition,2030,10807,€/MW/a,TYNDP 2024
+"Solar PV, Rooftop",OPEX_fixed,National Trends,2035,10150,€/MW/a,TYNDP 2024
+"Solar PV, Rooftop",OPEX_fixed,Distributed Energy,2035,9377,€/MW/a,TYNDP 2024
+"Solar PV, Rooftop",OPEX_fixed,Global Ambition,2035,10924,€/MW/a,TYNDP 2024
+"Solar PV, Rooftop",OPEX_fixed,National Trends,2040,9600,€/MW/a,TYNDP 2024
+"Solar PV, Rooftop",OPEX_fixed,Distributed Energy,2040,8160,€/MW/a,TYNDP 2024
+"Solar PV, Rooftop",OPEX_fixed,Global Ambition,2040,11040,€/MW/a,TYNDP 2024
+"Solar PV, Rooftop",OPEX_fixed,National Trends,2045,9250,€/MW/a,TYNDP 2024
+"Solar PV, Rooftop",OPEX_fixed,Distributed Energy,2045,7640,€/MW/a,TYNDP 2024
+"Solar PV, Rooftop",OPEX_fixed,Global Ambition,2045,10860,€/MW/a,TYNDP 2024
+"Solar PV, Rooftop",OPEX_fixed,National Trends,2050,8900,€/MW/a,TYNDP 2024
+"Solar PV, Rooftop",OPEX_fixed,Distributed Energy,2050,7120,€/MW/a,TYNDP 2024
+"Solar PV, Rooftop",OPEX_fixed,Global Ambition,2050,10680,€/MW/a,TYNDP 2024
+"Solar PV, Utility",OPEX_fixed,National Trends,2030,79780,€/MW/a,TYNDP 2024
+"Solar PV, Utility",OPEX_fixed,Distributed Energy,2030,78985,€/MW/a,TYNDP 2024
+"Solar PV, Utility",OPEX_fixed,Global Ambition,2030,80575,€/MW/a,TYNDP 2024
+"Solar PV, Utility",OPEX_fixed,National Trends,2035,75930,€/MW/a,TYNDP 2024
+"Solar PV, Utility",OPEX_fixed,Distributed Energy,2035,70123,€/MW/a,TYNDP 2024
+"Solar PV, Utility",OPEX_fixed,Global Ambition,2035,81737,€/MW/a,TYNDP 2024
+"Solar PV, Utility",OPEX_fixed,National Trends,2040,72080,€/MW/a,TYNDP 2024
+"Solar PV, Utility",OPEX_fixed,Distributed Energy,2040,61268,€/MW/a,TYNDP 2024
+"Solar PV, Utility",OPEX_fixed,Global Ambition,2040,82892,€/MW/a,TYNDP 2024
+"Solar PV, Utility",OPEX_fixed,National Trends,2045,71240,€/MW/a,TYNDP 2024
+"Solar PV, Utility",OPEX_fixed,Distributed Energy,2045,58798,€/MW/a,TYNDP 2024
+"Solar PV, Utility",OPEX_fixed,Global Ambition,2045,83690,€/MW/a,TYNDP 2024
+"Solar PV, Utility",OPEX_fixed,National Trends,2050,70400,€/MW/a,TYNDP 2024
+"Solar PV, Utility",OPEX_fixed,Distributed Energy,2050,56320,€/MW/a,TYNDP 2024
+"Solar PV, Utility",OPEX_fixed,Global Ambition,2050,84480,€/MW/a,TYNDP 2024
+Onshore Wind,OPEX_fixed,National Trends,2030,12600,€/MW/a,TYNDP 2024
+Onshore Wind,OPEX_fixed,Distributed Energy,2030,12474,€/MW/a,TYNDP 2024
+Onshore Wind,OPEX_fixed,Global Ambition,2030,12726,€/MW/a,TYNDP 2024
+Onshore Wind,OPEX_fixed,National Trends,2035,12096,€/MW/a,TYNDP 2024
+Onshore Wind,OPEX_fixed,Distributed Energy,2035,11830.14,€/MW/a,TYNDP 2024
+Onshore Wind,OPEX_fixed,Global Ambition,2035,12361.86,€/MW/a,TYNDP 2024
+Onshore Wind,OPEX_fixed,National Trends,2040,11592,€/MW/a,TYNDP 2024
+Onshore Wind,OPEX_fixed,Distributed Energy,2040,11186.28,€/MW/a,TYNDP 2024
+Onshore Wind,OPEX_fixed,Global Ambition,2040,11997.72,€/MW/a,TYNDP 2024
+Onshore Wind,OPEX_fixed,National Trends,2045,11466,€/MW/a,TYNDP 2024
+Onshore Wind,OPEX_fixed,Distributed Energy,2045,10971.45649,€/MW/a,TYNDP 2024
+Onshore Wind,OPEX_fixed,Global Ambition,2045,11960.54351,€/MW/a,TYNDP 2024
+Onshore Wind,OPEX_fixed,National Trends,2050,11340,€/MW/a,TYNDP 2024
+Onshore Wind,OPEX_fixed,Distributed Energy,2050,10756.63299,€/MW/a,TYNDP 2024
+Onshore Wind,OPEX_fixed,Global Ambition,2050,11923.36701,€/MW/a,TYNDP 2024
+"Offshore Wind, Fixed AC Radial",OPEX_fixed,National Trends,2030,58000,€/MW/a,TYNDP 2024
+"Offshore Wind, Fixed AC Radial",OPEX_fixed,Distributed Energy,2030,58580,€/MW/a,TYNDP 2024
+"Offshore Wind, Fixed AC Radial",OPEX_fixed,Global Ambition,2030,57420,€/MW/a,TYNDP 2024
+"Offshore Wind, Fixed AC Radial",OPEX_fixed,National Trends,2035,54500,€/MW/a,TYNDP 2024
+"Offshore Wind, Fixed AC Radial",OPEX_fixed,Distributed Energy,2035,57258.86364,€/MW/a,TYNDP 2024
+"Offshore Wind, Fixed AC Radial",OPEX_fixed,Global Ambition,2035,51741.13636,€/MW/a,TYNDP 2024
+"Offshore Wind, Fixed AC Radial",OPEX_fixed,National Trends,2040,51000,€/MW/a,TYNDP 2024
+"Offshore Wind, Fixed AC Radial",OPEX_fixed,Distributed Energy,2040,55937.72727,€/MW/a,TYNDP 2024
+"Offshore Wind, Fixed AC Radial",OPEX_fixed,Global Ambition,2040,46062.27273,€/MW/a,TYNDP 2024
+"Offshore Wind, Fixed AC Radial",OPEX_fixed,National Trends,2045,50000,€/MW/a,TYNDP 2024
+"Offshore Wind, Fixed AC Radial",OPEX_fixed,Distributed Energy,2045,54883.00998,€/MW/a,TYNDP 2024
+"Offshore Wind, Fixed AC Radial",OPEX_fixed,Global Ambition,2045,45116.99002,€/MW/a,TYNDP 2024
+"Offshore Wind, Fixed AC Radial",OPEX_fixed,National Trends,2050,49000,€/MW/a,TYNDP 2024
+"Offshore Wind, Fixed AC Radial",OPEX_fixed,Distributed Energy,2050,53828.29268,€/MW/a,TYNDP 2024
+"Offshore Wind, Fixed AC Radial",OPEX_fixed,Global Ambition,2050,44171.70732,€/MW/a,TYNDP 2024
+"Offshore Wind, Fixed DC Radial",OPEX_fixed,National Trends,2030,73000,€/MW/a,TYNDP 2024
+"Offshore Wind, Fixed DC Radial",OPEX_fixed,Distributed Energy,2030,73730,€/MW/a,TYNDP 2024
+"Offshore Wind, Fixed DC Radial",OPEX_fixed,Global Ambition,2030,72270,€/MW/a,TYNDP 2024
+"Offshore Wind, Fixed DC Radial",OPEX_fixed,National Trends,2035,69500,€/MW/a,TYNDP 2024
+"Offshore Wind, Fixed DC Radial",OPEX_fixed,Distributed Energy,2035,72338.57143,€/MW/a,TYNDP 2024
+"Offshore Wind, Fixed DC Radial",OPEX_fixed,Global Ambition,2035,66661.42857,€/MW/a,TYNDP 2024
+"Offshore Wind, Fixed DC Radial",OPEX_fixed,National Trends,2040,66000,€/MW/a,TYNDP 2024
+"Offshore Wind, Fixed DC Radial",OPEX_fixed,Distributed Energy,2040,70947.14286,€/MW/a,TYNDP 2024
+"Offshore Wind, Fixed DC Radial",OPEX_fixed,Global Ambition,2040,61052.85714,€/MW/a,TYNDP 2024
+"Offshore Wind, Fixed DC Radial",OPEX_fixed,National Trends,2045,65000,€/MW/a,TYNDP 2024
+"Offshore Wind, Fixed DC Radial",OPEX_fixed,Distributed Energy,2045,70014.00811,€/MW/a,TYNDP 2024
+"Offshore Wind, Fixed DC Radial",OPEX_fixed,Global Ambition,2045,59985.99189,€/MW/a,TYNDP 2024
+"Offshore Wind, Fixed DC Radial",OPEX_fixed,National Trends,2050,64000,€/MW/a,TYNDP 2024
+"Offshore Wind, Fixed DC Radial",OPEX_fixed,Distributed Energy,2050,69080.87336,€/MW/a,TYNDP 2024
+"Offshore Wind, Fixed DC Radial",OPEX_fixed,Global Ambition,2050,58919.12664,€/MW/a,TYNDP 2024
+"Offshore Wind, Fixed Hub",OPEX_fixed,National Trends,2030,65000,€/MW/a,TYNDP 2024
+"Offshore Wind, Fixed Hub",OPEX_fixed,Distributed Energy,2030,65650,€/MW/a,TYNDP 2024
+"Offshore Wind, Fixed Hub",OPEX_fixed,Global Ambition,2030,64350,€/MW/a,TYNDP 2024
+"Offshore Wind, Fixed Hub",OPEX_fixed,National Trends,2035,61500,€/MW/a,TYNDP 2024
+"Offshore Wind, Fixed Hub",OPEX_fixed,Distributed Energy,2035,64436.52632,€/MW/a,TYNDP 2024
+"Offshore Wind, Fixed Hub",OPEX_fixed,Global Ambition,2035,58563.47368,€/MW/a,TYNDP 2024
+"Offshore Wind, Fixed Hub",OPEX_fixed,National Trends,2040,58000,€/MW/a,TYNDP 2024
+"Offshore Wind, Fixed Hub",OPEX_fixed,Distributed Energy,2040,63223.05263,€/MW/a,TYNDP 2024
+"Offshore Wind, Fixed Hub",OPEX_fixed,Global Ambition,2040,52776.94737,€/MW/a,TYNDP 2024
+"Offshore Wind, Fixed Hub",OPEX_fixed,National Trends,2045,57000,€/MW/a,TYNDP 2024
+"Offshore Wind, Fixed Hub",OPEX_fixed,Distributed Energy,2045,62319.18589,€/MW/a,TYNDP 2024
+"Offshore Wind, Fixed Hub",OPEX_fixed,Global Ambition,2045,51680.81411,€/MW/a,TYNDP 2024
+"Offshore Wind, Fixed Hub",OPEX_fixed,National Trends,2050,56000,€/MW/a,TYNDP 2024
+"Offshore Wind, Fixed Hub",OPEX_fixed,Distributed Energy,2050,61415.31915,€/MW/a,TYNDP 2024
+"Offshore Wind, Fixed Hub",OPEX_fixed,Global Ambition,2050,50584.68085,€/MW/a,TYNDP 2024
+"Offshore Wind, Floating AC Radial",OPEX_fixed,National Trends,2030,87000,€/MW/a,TYNDP 2024
+"Offshore Wind, Floating AC Radial",OPEX_fixed,Distributed Energy,2030,87870,€/MW/a,TYNDP 2024
+"Offshore Wind, Floating AC Radial",OPEX_fixed,Global Ambition,2030,86130,€/MW/a,TYNDP 2024
+"Offshore Wind, Floating AC Radial",OPEX_fixed,National Trends,2035,74100,€/MW/a,TYNDP 2024
+"Offshore Wind, Floating AC Radial",OPEX_fixed,Distributed Energy,2035,79125,€/MW/a,TYNDP 2024
+"Offshore Wind, Floating AC Radial",OPEX_fixed,Global Ambition,2035,69075,€/MW/a,TYNDP 2024
+"Offshore Wind, Floating AC Radial",OPEX_fixed,National Trends,2040,61200,€/MW/a,TYNDP 2024
+"Offshore Wind, Floating AC Radial",OPEX_fixed,Distributed Energy,2040,70380,€/MW/a,TYNDP 2024
+"Offshore Wind, Floating AC Radial",OPEX_fixed,Global Ambition,2040,52020,€/MW/a,TYNDP 2024
+"Offshore Wind, Floating AC Radial",OPEX_fixed,National Trends,2045,57550,€/MW/a,TYNDP 2024
+"Offshore Wind, Floating AC Radial",OPEX_fixed,Distributed Energy,2045,67530,€/MW/a,TYNDP 2024
+"Offshore Wind, Floating AC Radial",OPEX_fixed,Global Ambition,2045,47570,€/MW/a,TYNDP 2024
+"Offshore Wind, Floating AC Radial",OPEX_fixed,National Trends,2050,53900,€/MW/a,TYNDP 2024
+"Offshore Wind, Floating AC Radial",OPEX_fixed,Distributed Energy,2050,64680,€/MW/a,TYNDP 2024
+"Offshore Wind, Floating AC Radial",OPEX_fixed,Global Ambition,2050,43120,€/MW/a,TYNDP 2024
+"Offshore Wind, Floating DC Radial",OPEX_fixed,National Trends,2030,109500,€/MW/a,TYNDP 2024
+"Offshore Wind, Floating DC Radial",OPEX_fixed,Distributed Energy,2030,110595,€/MW/a,TYNDP 2024
+"Offshore Wind, Floating DC Radial",OPEX_fixed,Global Ambition,2030,108405,€/MW/a,TYNDP 2024
+"Offshore Wind, Floating DC Radial",OPEX_fixed,National Trends,2035,94350,€/MW/a,TYNDP 2024
+"Offshore Wind, Floating DC Radial",OPEX_fixed,Distributed Energy,2035,100838,€/MW/a,TYNDP 2024
+"Offshore Wind, Floating DC Radial",OPEX_fixed,Global Ambition,2035,87863,€/MW/a,TYNDP 2024
+"Offshore Wind, Floating DC Radial",OPEX_fixed,National Trends,2040,79200,€/MW/a,TYNDP 2024
+"Offshore Wind, Floating DC Radial",OPEX_fixed,Distributed Energy,2040,91080,€/MW/a,TYNDP 2024
+"Offshore Wind, Floating DC Radial",OPEX_fixed,Global Ambition,2040,67320,€/MW/a,TYNDP 2024
+"Offshore Wind, Floating DC Radial",OPEX_fixed,National Trends,2045,74800,€/MW/a,TYNDP 2024
+"Offshore Wind, Floating DC Radial",OPEX_fixed,Distributed Energy,2045,87780,€/MW/a,TYNDP 2024
+"Offshore Wind, Floating DC Radial",OPEX_fixed,Global Ambition,2045,61820,€/MW/a,TYNDP 2024
+"Offshore Wind, Floating DC Radial",OPEX_fixed,National Trends,2050,70400,€/MW/a,TYNDP 2024
+"Offshore Wind, Floating DC Radial",OPEX_fixed,Distributed Energy,2050,84480,€/MW/a,TYNDP 2024
+"Offshore Wind, Floating DC Radial",OPEX_fixed,Global Ambition,2050,56320,€/MW/a,TYNDP 2024
+"Offshore Wind, Floating Hub",OPEX_fixed,National Trends,2030,97500,€/MW/a,TYNDP 2024
+"Offshore Wind, Floating Hub",OPEX_fixed,Distributed Energy,2030,98475,€/MW/a,TYNDP 2024
+"Offshore Wind, Floating Hub",OPEX_fixed,Global Ambition,2030,96525,€/MW/a,TYNDP 2024
+"Offshore Wind, Floating Hub",OPEX_fixed,National Trends,2035,83550,€/MW/a,TYNDP 2024
+"Offshore Wind, Floating Hub",OPEX_fixed,Distributed Energy,2035,89258,€/MW/a,TYNDP 2024
+"Offshore Wind, Floating Hub",OPEX_fixed,Global Ambition,2035,77843,€/MW/a,TYNDP 2024
+"Offshore Wind, Floating Hub",OPEX_fixed,National Trends,2040,69600,€/MW/a,TYNDP 2024
+"Offshore Wind, Floating Hub",OPEX_fixed,Distributed Energy,2040,80040,€/MW/a,TYNDP 2024
+"Offshore Wind, Floating Hub",OPEX_fixed,Global Ambition,2040,59160,€/MW/a,TYNDP 2024
+"Offshore Wind, Floating Hub",OPEX_fixed,National Trends,2045,65600,€/MW/a,TYNDP 2024
+"Offshore Wind, Floating Hub",OPEX_fixed,Distributed Energy,2045,76980,€/MW/a,TYNDP 2024
+"Offshore Wind, Floating Hub",OPEX_fixed,Global Ambition,2045,54220,€/MW/a,TYNDP 2024
+"Offshore Wind, Floating Hub",OPEX_fixed,National Trends,2050,61600,€/MW/a,TYNDP 2024
+"Offshore Wind, Floating Hub",OPEX_fixed,Distributed Energy,2050,73920,€/MW/a,TYNDP 2024
+"Offshore Wind, Floating Hub",OPEX_fixed,Global Ambition,2050,49280,€/MW/a,TYNDP 2024
+Nuclear,OPEX_fixed,National Trends,2030,0,€/MW/a,TYNDP 2024
+Nuclear,OPEX_fixed,Distributed Energy,2030,0,€/MW/a,TYNDP 2024
+Nuclear,OPEX_fixed,Global Ambition,2030,0,€/MW/a,TYNDP 2024
+Nuclear,OPEX_fixed,National Trends,2035,0,€/MW/a,TYNDP 2024
+Nuclear,OPEX_fixed,Distributed Energy,2035,0,€/MW/a,TYNDP 2024
+Nuclear,OPEX_fixed,Global Ambition,2035,0,€/MW/a,TYNDP 2024
+Nuclear,OPEX_fixed,National Trends,2040,0,€/MW/a,TYNDP 2024
+Nuclear,OPEX_fixed,Distributed Energy,2040,0,€/MW/a,TYNDP 2024
+Nuclear,OPEX_fixed,Global Ambition,2040,0,€/MW/a,TYNDP 2024
+Nuclear,OPEX_fixed,National Trends,2045,0,€/MW/a,TYNDP 2024
+Nuclear,OPEX_fixed,Distributed Energy,2045,0,€/MW/a,TYNDP 2024
+Nuclear,OPEX_fixed,Global Ambition,2045,0,€/MW/a,TYNDP 2024
+Nuclear,OPEX_fixed,National Trends,2050,0,€/MW/a,TYNDP 2024
+Nuclear,OPEX_fixed,Distributed Energy,2050,0,€/MW/a,TYNDP 2024
+Nuclear,OPEX_fixed,Global Ambition,2050,0,€/MW/a,TYNDP 2024
+Hydro,OPEX_fixed,National Trends,2030,0,€/MW/a,TYNDP 2024
+Hydro,OPEX_fixed,Distributed Energy,2030,0,€/MW/a,TYNDP 2024
+Hydro,OPEX_fixed,Global Ambition,2030,0,€/MW/a,TYNDP 2024
+Hydro,OPEX_fixed,National Trends,2035,0,€/MW/a,TYNDP 2024
+Hydro,OPEX_fixed,Distributed Energy,2035,0,€/MW/a,TYNDP 2024
+Hydro,OPEX_fixed,Global Ambition,2035,0,€/MW/a,TYNDP 2024
+Hydro,OPEX_fixed,National Trends,2040,0,€/MW/a,TYNDP 2024
+Hydro,OPEX_fixed,Distributed Energy,2040,0,€/MW/a,TYNDP 2024
+Hydro,OPEX_fixed,Global Ambition,2040,0,€/MW/a,TYNDP 2024
+Hydro,OPEX_fixed,National Trends,2045,0,€/MW/a,TYNDP 2024
+Hydro,OPEX_fixed,Distributed Energy,2045,0,€/MW/a,TYNDP 2024
+Hydro,OPEX_fixed,Global Ambition,2045,0,€/MW/a,TYNDP 2024
+Hydro,OPEX_fixed,National Trends,2050,0,€/MW/a,TYNDP 2024
+Hydro,OPEX_fixed,Distributed Energy,2050,0,€/MW/a,TYNDP 2024
+Hydro,OPEX_fixed,Global Ambition,2050,0,€/MW/a,TYNDP 2024
+Onshore Electrolysis,OPEX_fixed,National Trends,2030,5,€/MW/a,TYNDP 2024
+Onshore Electrolysis,OPEX_fixed,Distributed Energy,2030,5,€/MW/a,TYNDP 2024
+Onshore Electrolysis,OPEX_fixed,Global Ambition,2030,5,€/MW/a,TYNDP 2024
+Onshore Electrolysis,OPEX_fixed,National Trends,2035,4,€/MW/a,TYNDP 2024
+Onshore Electrolysis,OPEX_fixed,Distributed Energy,2035,4,€/MW/a,TYNDP 2024
+Onshore Electrolysis,OPEX_fixed,Global Ambition,2035,4,€/MW/a,TYNDP 2024
+Onshore Electrolysis,OPEX_fixed,National Trends,2040,4,€/MW/a,TYNDP 2024
+Onshore Electrolysis,OPEX_fixed,Distributed Energy,2040,4,€/MW/a,TYNDP 2024
+Onshore Electrolysis,OPEX_fixed,Global Ambition,2040,4,€/MW/a,TYNDP 2024
+Onshore Electrolysis,OPEX_fixed,National Trends,2045,3,€/MW/a,TYNDP 2024
+Onshore Electrolysis,OPEX_fixed,Distributed Energy,2045,3,€/MW/a,TYNDP 2024
+Onshore Electrolysis,OPEX_fixed,Global Ambition,2045,3,€/MW/a,TYNDP 2024
+Onshore Electrolysis,OPEX_fixed,National Trends,2050,3,€/MW/a,TYNDP 2024
+Onshore Electrolysis,OPEX_fixed,Distributed Energy,2050,3,€/MW/a,TYNDP 2024
+Onshore Electrolysis,OPEX_fixed,Global Ambition,2050,3,€/MW/a,TYNDP 2024
+Offshore Electrolysis,OPEX_fixed,National Trends,2030,7,€/MW/a,TYNDP 2024
+Offshore Electrolysis,OPEX_fixed,Distributed Energy,2030,7,€/MW/a,TYNDP 2024
+Offshore Electrolysis,OPEX_fixed,Global Ambition,2030,7,€/MW/a,TYNDP 2024
+Offshore Electrolysis,OPEX_fixed,National Trends,2035,6,€/MW/a,TYNDP 2024
+Offshore Electrolysis,OPEX_fixed,Distributed Energy,2035,6,€/MW/a,TYNDP 2024
+Offshore Electrolysis,OPEX_fixed,Global Ambition,2035,6,€/MW/a,TYNDP 2024
+Offshore Electrolysis,OPEX_fixed,National Trends,2040,5,€/MW/a,TYNDP 2024
+Offshore Electrolysis,OPEX_fixed,Distributed Energy,2040,5,€/MW/a,TYNDP 2024
+Offshore Electrolysis,OPEX_fixed,Global Ambition,2040,5,€/MW/a,TYNDP 2024
+Offshore Electrolysis,OPEX_fixed,National Trends,2045,4,€/MW/a,TYNDP 2024
+Offshore Electrolysis,OPEX_fixed,Distributed Energy,2045,4,€/MW/a,TYNDP 2024
+Offshore Electrolysis,OPEX_fixed,Global Ambition,2045,4,€/MW/a,TYNDP 2024
+Offshore Electrolysis,OPEX_fixed,National Trends,2050,4,€/MW/a,TYNDP 2024
+Offshore Electrolysis,OPEX_fixed,Distributed Energy,2050,4,€/MW/a,TYNDP 2024
+Offshore Electrolysis,OPEX_fixed,Global Ambition,2050,4,€/MW/a,TYNDP 2024
+Hydrogen-to-Power,OPEX_fixed,National Trends,2030,0,€/MW/a,TYNDP 2024
+Hydrogen-to-Power,OPEX_fixed,Distributed Energy,2030,0,€/MW/a,TYNDP 2024
+Hydrogen-to-Power,OPEX_fixed,Global Ambition,2030,0,€/MW/a,TYNDP 2024
+Hydrogen-to-Power,OPEX_fixed,National Trends,2035,0,€/MW/a,TYNDP 2024
+Hydrogen-to-Power,OPEX_fixed,Distributed Energy,2035,0,€/MW/a,TYNDP 2024
+Hydrogen-to-Power,OPEX_fixed,Global Ambition,2035,0,€/MW/a,TYNDP 2024
+Hydrogen-to-Power,OPEX_fixed,National Trends,2040,0,€/MW/a,TYNDP 2024
+Hydrogen-to-Power,OPEX_fixed,Distributed Energy,2040,0,€/MW/a,TYNDP 2024
+Hydrogen-to-Power,OPEX_fixed,Global Ambition,2040,0,€/MW/a,TYNDP 2024
+Hydrogen-to-Power,OPEX_fixed,National Trends,2045,0,€/MW/a,TYNDP 2024
+Hydrogen-to-Power,OPEX_fixed,Distributed Energy,2045,0,€/MW/a,TYNDP 2024
+Hydrogen-to-Power,OPEX_fixed,Global Ambition,2045,0,€/MW/a,TYNDP 2024
+Hydrogen-to-Power,OPEX_fixed,National Trends,2050,0,€/MW/a,TYNDP 2024
+Hydrogen-to-Power,OPEX_fixed,Distributed Energy,2050,0,€/MW/a,TYNDP 2024
+Hydrogen-to-Power,OPEX_fixed,Global Ambition,2050,0,€/MW/a,TYNDP 2024
+"Battery, Residential (2.5C)",OPEX_fixed,National Trends,2030,0,€/MW/a,TYNDP 2024
+"Battery, Residential (2.5C)",OPEX_fixed,Distributed Energy,2030,0,€/MW/a,TYNDP 2024
+"Battery, Residential (2.5C)",OPEX_fixed,Global Ambition,2030,0,€/MW/a,TYNDP 2024
+"Battery, Residential (2.5C)",OPEX_fixed,National Trends,2035,0,€/MW/a,TYNDP 2024
+"Battery, Residential (2.5C)",OPEX_fixed,Distributed Energy,2035,0,€/MW/a,TYNDP 2024
+"Battery, Residential (2.5C)",OPEX_fixed,Global Ambition,2035,0,€/MW/a,TYNDP 2024
+"Battery, Residential (2.5C)",OPEX_fixed,National Trends,2040,0,€/MW/a,TYNDP 2024
+"Battery, Residential (2.5C)",OPEX_fixed,Distributed Energy,2040,0,€/MW/a,TYNDP 2024
+"Battery, Residential (2.5C)",OPEX_fixed,Global Ambition,2040,0,€/MW/a,TYNDP 2024
+"Battery, Residential (2.5C)",OPEX_fixed,National Trends,2045,0,€/MW/a,TYNDP 2024
+"Battery, Residential (2.5C)",OPEX_fixed,Distributed Energy,2045,0,€/MW/a,TYNDP 2024
+"Battery, Residential (2.5C)",OPEX_fixed,Global Ambition,2045,0,€/MW/a,TYNDP 2024
+"Battery, Residential (2.5C)",OPEX_fixed,National Trends,2050,0,€/MW/a,TYNDP 2024
+"Battery, Residential (2.5C)",OPEX_fixed,Distributed Energy,2050,0,€/MW/a,TYNDP 2024
+"Battery, Residential (2.5C)",OPEX_fixed,Global Ambition,2050,0,€/MW/a,TYNDP 2024
+"Battery, Utility (2C)",OPEX_fixed,National Trends,2030,8400,€/MW/a,TYNDP 2024
+"Battery, Utility (2C)",OPEX_fixed,Distributed Energy,2030,8400,€/MW/a,TYNDP 2024
+"Battery, Utility (2C)",OPEX_fixed,Global Ambition,2030,8400,€/MW/a,TYNDP 2024
+"Battery, Utility (2C)",OPEX_fixed,National Trends,2035,8100,€/MW/a,TYNDP 2024
+"Battery, Utility (2C)",OPEX_fixed,Distributed Energy,2035,8100,€/MW/a,TYNDP 2024
+"Battery, Utility (2C)",OPEX_fixed,Global Ambition,2035,8100,€/MW/a,TYNDP 2024
+"Battery, Utility (2C)",OPEX_fixed,National Trends,2040,8100,€/MW/a,TYNDP 2024
+"Battery, Utility (2C)",OPEX_fixed,Distributed Energy,2040,8100,€/MW/a,TYNDP 2024
+"Battery, Utility (2C)",OPEX_fixed,Global Ambition,2040,8100,€/MW/a,TYNDP 2024
+"Battery, Utility (2C)",OPEX_fixed,National Trends,2045,8700,€/MW/a,TYNDP 2024
+"Battery, Utility (2C)",OPEX_fixed,Distributed Energy,2045,8700,€/MW/a,TYNDP 2024
+"Battery, Utility (2C)",OPEX_fixed,Global Ambition,2045,8700,€/MW/a,TYNDP 2024
+"Battery, Utility (2C)",OPEX_fixed,National Trends,2050,9200,€/MW/a,TYNDP 2024
+"Battery, Utility (2C)",OPEX_fixed,Distributed Energy,2050,9200,€/MW/a,TYNDP 2024
+"Battery, Utility (2C)",OPEX_fixed,Global Ambition,2050,9200,€/MW/a,TYNDP 2024
+"Battery, Utility (4C)",OPEX_fixed,National Trends,2030,8400,€/MW/a,TYNDP 2024
+"Battery, Utility (4C)",OPEX_fixed,Distributed Energy,2030,8400,€/MW/a,TYNDP 2024
+"Battery, Utility (4C)",OPEX_fixed,Global Ambition,2030,8400,€/MW/a,TYNDP 2024
+"Battery, Utility (4C)",OPEX_fixed,National Trends,2035,8100,€/MW/a,TYNDP 2024
+"Battery, Utility (4C)",OPEX_fixed,Distributed Energy,2035,8100,€/MW/a,TYNDP 2024
+"Battery, Utility (4C)",OPEX_fixed,Global Ambition,2035,8100,€/MW/a,TYNDP 2024
+"Battery, Utility (4C)",OPEX_fixed,National Trends,2040,8100,€/MW/a,TYNDP 2024
+"Battery, Utility (4C)",OPEX_fixed,Distributed Energy,2040,8100,€/MW/a,TYNDP 2024
+"Battery, Utility (4C)",OPEX_fixed,Global Ambition,2040,8100,€/MW/a,TYNDP 2024
+"Battery, Utility (4C)",OPEX_fixed,National Trends,2045,8700,€/MW/a,TYNDP 2024
+"Battery, Utility (4C)",OPEX_fixed,Distributed Energy,2045,8700,€/MW/a,TYNDP 2024
+"Battery, Utility (4C)",OPEX_fixed,Global Ambition,2045,8700,€/MW/a,TYNDP 2024
+"Battery, Utility (4C)",OPEX_fixed,National Trends,2050,9200,€/MW/a,TYNDP 2024
+"Battery, Utility (4C)",OPEX_fixed,Distributed Energy,2050,9200,€/MW/a,TYNDP 2024
+"Battery, Utility (4C)",OPEX_fixed,Global Ambition,2050,9200,€/MW/a,TYNDP 2024
+Pumped Hydropower,OPEX_fixed,National Trends,2030,0,€/MW/a,TYNDP 2024
+Pumped Hydropower,OPEX_fixed,Distributed Energy,2030,0,€/MW/a,TYNDP 2024
+Pumped Hydropower,OPEX_fixed,Global Ambition,2030,0,€/MW/a,TYNDP 2024
+Pumped Hydropower,OPEX_fixed,National Trends,2035,0,€/MW/a,TYNDP 2024
+Pumped Hydropower,OPEX_fixed,Distributed Energy,2035,0,€/MW/a,TYNDP 2024
+Pumped Hydropower,OPEX_fixed,Global Ambition,2035,0,€/MW/a,TYNDP 2024
+Pumped Hydropower,OPEX_fixed,National Trends,2040,0,€/MW/a,TYNDP 2024
+Pumped Hydropower,OPEX_fixed,Distributed Energy,2040,0,€/MW/a,TYNDP 2024
+Pumped Hydropower,OPEX_fixed,Global Ambition,2040,0,€/MW/a,TYNDP 2024
+Pumped Hydropower,OPEX_fixed,National Trends,2045,0,€/MW/a,TYNDP 2024
+Pumped Hydropower,OPEX_fixed,Distributed Energy,2045,0,€/MW/a,TYNDP 2024
+Pumped Hydropower,OPEX_fixed,Global Ambition,2045,0,€/MW/a,TYNDP 2024
+Pumped Hydropower,OPEX_fixed,National Trends,2050,0,€/MW/a,TYNDP 2024
+Pumped Hydropower,OPEX_fixed,Distributed Energy,2050,0,€/MW/a,TYNDP 2024
+Pumped Hydropower,OPEX_fixed,Global Ambition,2050,0,€/MW/a,TYNDP 2024
+Hydrogen Salt Caverns,OPEX_fixed,National Trends,2030,0.00004,€/MW/a,TYNDP 2024
+Hydrogen Salt Caverns,OPEX_fixed,Distributed Energy,2030,0.00004,€/MW/a,TYNDP 2024
+Hydrogen Salt Caverns,OPEX_fixed,Global Ambition,2030,0.00004,€/MW/a,TYNDP 2024
+Hydrogen Salt Caverns,OPEX_fixed,National Trends,2035,0.000035,€/MW/a,TYNDP 2024
+Hydrogen Salt Caverns,OPEX_fixed,Distributed Energy,2035,0.000035,€/MW/a,TYNDP 2024
+Hydrogen Salt Caverns,OPEX_fixed,Global Ambition,2035,0.000035,€/MW/a,TYNDP 2024
+Hydrogen Salt Caverns,OPEX_fixed,National Trends,2040,0.00003,€/MW/a,TYNDP 2024
+Hydrogen Salt Caverns,OPEX_fixed,Distributed Energy,2040,0.00003,€/MW/a,TYNDP 2024
+Hydrogen Salt Caverns,OPEX_fixed,Global Ambition,2040,0.00003,€/MW/a,TYNDP 2024
+Hydrogen Salt Caverns,OPEX_fixed,National Trends,2045,0.000027,€/MW/a,TYNDP 2024
+Hydrogen Salt Caverns,OPEX_fixed,Distributed Energy,2045,0.000027,€/MW/a,TYNDP 2024
+Hydrogen Salt Caverns,OPEX_fixed,Global Ambition,2045,0.000027,€/MW/a,TYNDP 2024
+Hydrogen Salt Caverns,OPEX_fixed,National Trends,2050,0.000024,€/MW/a,TYNDP 2024
+Hydrogen Salt Caverns,OPEX_fixed,Distributed Energy,2050,0.000024,€/MW/a,TYNDP 2024
+Hydrogen Salt Caverns,OPEX_fixed,Global Ambition,2050,0.000024,€/MW/a,TYNDP 2024
+Hydrogen Reservoirs,OPEX_fixed,National Trends,2030,0,€/MW/a,TYNDP 2024
+Hydrogen Reservoirs,OPEX_fixed,Distributed Energy,2030,0,€/MW/a,TYNDP 2024
+Hydrogen Reservoirs,OPEX_fixed,Global Ambition,2030,0,€/MW/a,TYNDP 2024
+Hydrogen Reservoirs,OPEX_fixed,National Trends,2035,0,€/MW/a,TYNDP 2024
+Hydrogen Reservoirs,OPEX_fixed,Distributed Energy,2035,0,€/MW/a,TYNDP 2024
+Hydrogen Reservoirs,OPEX_fixed,Global Ambition,2035,0,€/MW/a,TYNDP 2024
+Hydrogen Reservoirs,OPEX_fixed,National Trends,2040,0,€/MW/a,TYNDP 2024
+Hydrogen Reservoirs,OPEX_fixed,Distributed Energy,2040,0,€/MW/a,TYNDP 2024
+Hydrogen Reservoirs,OPEX_fixed,Global Ambition,2040,0,€/MW/a,TYNDP 2024
+Hydrogen Reservoirs,OPEX_fixed,National Trends,2045,0,€/MW/a,TYNDP 2024
+Hydrogen Reservoirs,OPEX_fixed,Distributed Energy,2045,0,€/MW/a,TYNDP 2024
+Hydrogen Reservoirs,OPEX_fixed,Global Ambition,2045,0,€/MW/a,TYNDP 2024
+Hydrogen Reservoirs,OPEX_fixed,National Trends,2050,0,€/MW/a,TYNDP 2024
+Hydrogen Reservoirs,OPEX_fixed,Distributed Energy,2050,0,€/MW/a,TYNDP 2024
+Hydrogen Reservoirs,OPEX_fixed,Global Ambition,2050,0,€/MW/a,TYNDP 2024
+Onshore AC Transmission,OPEX_fixed,National Trends,2030,0,€/MW/a,TYNDP 2024
+Onshore AC Transmission,OPEX_fixed,Distributed Energy,2030,0,€/MW/a,TYNDP 2024
+Onshore AC Transmission,OPEX_fixed,Global Ambition,2030,0,€/MW/a,TYNDP 2024
+Onshore AC Transmission,OPEX_fixed,National Trends,2035,0,€/MW/a,TYNDP 2024
+Onshore AC Transmission,OPEX_fixed,Distributed Energy,2035,0,€/MW/a,TYNDP 2024
+Onshore AC Transmission,OPEX_fixed,Global Ambition,2035,0,€/MW/a,TYNDP 2024
+Onshore AC Transmission,OPEX_fixed,National Trends,2040,0,€/MW/a,TYNDP 2024
+Onshore AC Transmission,OPEX_fixed,Distributed Energy,2040,0,€/MW/a,TYNDP 2024
+Onshore AC Transmission,OPEX_fixed,Global Ambition,2040,0,€/MW/a,TYNDP 2024
+Onshore AC Transmission,OPEX_fixed,National Trends,2045,0,€/MW/a,TYNDP 2024
+Onshore AC Transmission,OPEX_fixed,Distributed Energy,2045,0,€/MW/a,TYNDP 2024
+Onshore AC Transmission,OPEX_fixed,Global Ambition,2045,0,€/MW/a,TYNDP 2024
+Onshore AC Transmission,OPEX_fixed,National Trends,2050,0,€/MW/a,TYNDP 2024
+Onshore AC Transmission,OPEX_fixed,Distributed Energy,2050,0,€/MW/a,TYNDP 2024
+Onshore AC Transmission,OPEX_fixed,Global Ambition,2050,0,€/MW/a,TYNDP 2024
+Onshore Hydrogen Pipeline,OPEX_fixed,National Trends,2030,0,€/MW/a,TYNDP 2024
+Onshore Hydrogen Pipeline,OPEX_fixed,Distributed Energy,2030,0,€/MW/a,TYNDP 2024
+Onshore Hydrogen Pipeline,OPEX_fixed,Global Ambition,2030,0,€/MW/a,TYNDP 2024
+Onshore Hydrogen Pipeline,OPEX_fixed,National Trends,2035,0,€/MW/a,TYNDP 2024
+Onshore Hydrogen Pipeline,OPEX_fixed,Distributed Energy,2035,0,€/MW/a,TYNDP 2024
+Onshore Hydrogen Pipeline,OPEX_fixed,Global Ambition,2035,0,€/MW/a,TYNDP 2024
+Onshore Hydrogen Pipeline,OPEX_fixed,National Trends,2040,0,€/MW/a,TYNDP 2024
+Onshore Hydrogen Pipeline,OPEX_fixed,Distributed Energy,2040,0,€/MW/a,TYNDP 2024
+Onshore Hydrogen Pipeline,OPEX_fixed,Global Ambition,2040,0,€/MW/a,TYNDP 2024
+Onshore Hydrogen Pipeline,OPEX_fixed,National Trends,2045,0,€/MW/a,TYNDP 2024
+Onshore Hydrogen Pipeline,OPEX_fixed,Distributed Energy,2045,0,€/MW/a,TYNDP 2024
+Onshore Hydrogen Pipeline,OPEX_fixed,Global Ambition,2045,0,€/MW/a,TYNDP 2024
+Onshore Hydrogen Pipeline,OPEX_fixed,National Trends,2050,0,€/MW/a,TYNDP 2024
+Onshore Hydrogen Pipeline,OPEX_fixed,Distributed Energy,2050,0,€/MW/a,TYNDP 2024
+Onshore Hydrogen Pipeline,OPEX_fixed,Global Ambition,2050,0,€/MW/a,TYNDP 2024
+Offshore AC Transmission,OPEX_fixed,National Trends,2030,0,€/MW/a,TYNDP 2024
+Offshore AC Transmission,OPEX_fixed,Distributed Energy,2030,0,€/MW/a,TYNDP 2024
+Offshore AC Transmission,OPEX_fixed,Global Ambition,2030,0,€/MW/a,TYNDP 2024
+Offshore AC Transmission,OPEX_fixed,National Trends,2035,0,€/MW/a,TYNDP 2024
+Offshore AC Transmission,OPEX_fixed,Distributed Energy,2035,0,€/MW/a,TYNDP 2024
+Offshore AC Transmission,OPEX_fixed,Global Ambition,2035,0,€/MW/a,TYNDP 2024
+Offshore AC Transmission,OPEX_fixed,National Trends,2040,0,€/MW/a,TYNDP 2024
+Offshore AC Transmission,OPEX_fixed,Distributed Energy,2040,0,€/MW/a,TYNDP 2024
+Offshore AC Transmission,OPEX_fixed,Global Ambition,2040,0,€/MW/a,TYNDP 2024
+Offshore AC Transmission,OPEX_fixed,National Trends,2045,0,€/MW/a,TYNDP 2024
+Offshore AC Transmission,OPEX_fixed,Distributed Energy,2045,0,€/MW/a,TYNDP 2024
+Offshore AC Transmission,OPEX_fixed,Global Ambition,2045,0,€/MW/a,TYNDP 2024
+Offshore AC Transmission,OPEX_fixed,National Trends,2050,0,€/MW/a,TYNDP 2024
+Offshore AC Transmission,OPEX_fixed,Distributed Energy,2050,0,€/MW/a,TYNDP 2024
+Offshore AC Transmission,OPEX_fixed,Global Ambition,2050,0,€/MW/a,TYNDP 2024
+Offshore HVDC Transmission,OPEX_fixed,National Trends,2030,0,€/MW/a,TYNDP 2024
+Offshore HVDC Transmission,OPEX_fixed,Distributed Energy,2030,0,€/MW/a,TYNDP 2024
+Offshore HVDC Transmission,OPEX_fixed,Global Ambition,2030,0,€/MW/a,TYNDP 2024
+Offshore HVDC Transmission,OPEX_fixed,National Trends,2035,0,€/MW/a,TYNDP 2024
+Offshore HVDC Transmission,OPEX_fixed,Distributed Energy,2035,0,€/MW/a,TYNDP 2024
+Offshore HVDC Transmission,OPEX_fixed,Global Ambition,2035,0,€/MW/a,TYNDP 2024
+Offshore HVDC Transmission,OPEX_fixed,National Trends,2040,0,€/MW/a,TYNDP 2024
+Offshore HVDC Transmission,OPEX_fixed,Distributed Energy,2040,0,€/MW/a,TYNDP 2024
+Offshore HVDC Transmission,OPEX_fixed,Global Ambition,2040,0,€/MW/a,TYNDP 2024
+Offshore HVDC Transmission,OPEX_fixed,National Trends,2045,0,€/MW/a,TYNDP 2024
+Offshore HVDC Transmission,OPEX_fixed,Distributed Energy,2045,0,€/MW/a,TYNDP 2024
+Offshore HVDC Transmission,OPEX_fixed,Global Ambition,2045,0,€/MW/a,TYNDP 2024
+Offshore HVDC Transmission,OPEX_fixed,National Trends,2050,0,€/MW/a,TYNDP 2024
+Offshore HVDC Transmission,OPEX_fixed,Distributed Energy,2050,0,€/MW/a,TYNDP 2024
+Offshore HVDC Transmission,OPEX_fixed,Global Ambition,2050,0,€/MW/a,TYNDP 2024
+Offshore Hydrogen Pipeline,OPEX_fixed,National Trends,2030,0,€/MW/a,TYNDP 2024
+Offshore Hydrogen Pipeline,OPEX_fixed,Distributed Energy,2030,0,€/MW/a,TYNDP 2024
+Offshore Hydrogen Pipeline,OPEX_fixed,Global Ambition,2030,0,€/MW/a,TYNDP 2024
+Offshore Hydrogen Pipeline,OPEX_fixed,National Trends,2035,0,€/MW/a,TYNDP 2024
+Offshore Hydrogen Pipeline,OPEX_fixed,Distributed Energy,2035,0,€/MW/a,TYNDP 2024
+Offshore Hydrogen Pipeline,OPEX_fixed,Global Ambition,2035,0,€/MW/a,TYNDP 2024
+Offshore Hydrogen Pipeline,OPEX_fixed,National Trends,2040,0,€/MW/a,TYNDP 2024
+Offshore Hydrogen Pipeline,OPEX_fixed,Distributed Energy,2040,0,€/MW/a,TYNDP 2024
+Offshore Hydrogen Pipeline,OPEX_fixed,Global Ambition,2040,0,€/MW/a,TYNDP 2024
+Offshore Hydrogen Pipeline,OPEX_fixed,National Trends,2045,0,€/MW/a,TYNDP 2024
+Offshore Hydrogen Pipeline,OPEX_fixed,Distributed Energy,2045,0,€/MW/a,TYNDP 2024
+Offshore Hydrogen Pipeline,OPEX_fixed,Global Ambition,2045,0,€/MW/a,TYNDP 2024
+Offshore Hydrogen Pipeline,OPEX_fixed,National Trends,2050,0,€/MW/a,TYNDP 2024
+Offshore Hydrogen Pipeline,OPEX_fixed,Distributed Energy,2050,0,€/MW/a,TYNDP 2024
+Offshore Hydrogen Pipeline,OPEX_fixed,Global Ambition,2050,0,€/MW/a,TYNDP 2024
+"Solar PV, Rooftop",OPEX_variable,National Trends,2030,0,€/MWh,TYNDP 2024
+"Solar PV, Rooftop",OPEX_variable,Distributed Energy,2030,0,€/MWh,TYNDP 2024
+"Solar PV, Rooftop",OPEX_variable,Global Ambition,2030,0,€/MWh,TYNDP 2024
+"Solar PV, Rooftop",OPEX_variable,National Trends,2035,0,€/MWh,TYNDP 2024
+"Solar PV, Rooftop",OPEX_variable,Distributed Energy,2035,0,€/MWh,TYNDP 2024
+"Solar PV, Rooftop",OPEX_variable,Global Ambition,2035,0,€/MWh,TYNDP 2024
+"Solar PV, Rooftop",OPEX_variable,National Trends,2040,0,€/MWh,TYNDP 2024
+"Solar PV, Rooftop",OPEX_variable,Distributed Energy,2040,0,€/MWh,TYNDP 2024
+"Solar PV, Rooftop",OPEX_variable,Global Ambition,2040,0,€/MWh,TYNDP 2024
+"Solar PV, Rooftop",OPEX_variable,National Trends,2045,0,€/MWh,TYNDP 2024
+"Solar PV, Rooftop",OPEX_variable,Distributed Energy,2045,0,€/MWh,TYNDP 2024
+"Solar PV, Rooftop",OPEX_variable,Global Ambition,2045,0,€/MWh,TYNDP 2024
+"Solar PV, Rooftop",OPEX_variable,National Trends,2050,0,€/MWh,TYNDP 2024
+"Solar PV, Rooftop",OPEX_variable,Distributed Energy,2050,0,€/MWh,TYNDP 2024
+"Solar PV, Rooftop",OPEX_variable,Global Ambition,2050,0,€/MWh,TYNDP 2024
+"Solar PV, Utility",OPEX_variable,National Trends,2030,0,€/MWh,TYNDP 2024
+"Solar PV, Utility",OPEX_variable,Distributed Energy,2030,0,€/MWh,TYNDP 2024
+"Solar PV, Utility",OPEX_variable,Global Ambition,2030,0,€/MWh,TYNDP 2024
+"Solar PV, Utility",OPEX_variable,National Trends,2035,0,€/MWh,TYNDP 2024
+"Solar PV, Utility",OPEX_variable,Distributed Energy,2035,0,€/MWh,TYNDP 2024
+"Solar PV, Utility",OPEX_variable,Global Ambition,2035,0,€/MWh,TYNDP 2024
+"Solar PV, Utility",OPEX_variable,National Trends,2040,0,€/MWh,TYNDP 2024
+"Solar PV, Utility",OPEX_variable,Distributed Energy,2040,0,€/MWh,TYNDP 2024
+"Solar PV, Utility",OPEX_variable,Global Ambition,2040,0,€/MWh,TYNDP 2024
+"Solar PV, Utility",OPEX_variable,National Trends,2045,0,€/MWh,TYNDP 2024
+"Solar PV, Utility",OPEX_variable,Distributed Energy,2045,0,€/MWh,TYNDP 2024
+"Solar PV, Utility",OPEX_variable,Global Ambition,2045,0,€/MWh,TYNDP 2024
+"Solar PV, Utility",OPEX_variable,National Trends,2050,0,€/MWh,TYNDP 2024
+"Solar PV, Utility",OPEX_variable,Distributed Energy,2050,0,€/MWh,TYNDP 2024
+"Solar PV, Utility",OPEX_variable,Global Ambition,2050,0,€/MWh,TYNDP 2024
+Onshore Wind,OPEX_variable,National Trends,2030,0,€/MWh,TYNDP 2024
+Onshore Wind,OPEX_variable,Distributed Energy,2030,0,€/MWh,TYNDP 2024
+Onshore Wind,OPEX_variable,Global Ambition,2030,0,€/MWh,TYNDP 2024
+Onshore Wind,OPEX_variable,National Trends,2035,0,€/MWh,TYNDP 2024
+Onshore Wind,OPEX_variable,Distributed Energy,2035,0,€/MWh,TYNDP 2024
+Onshore Wind,OPEX_variable,Global Ambition,2035,0,€/MWh,TYNDP 2024
+Onshore Wind,OPEX_variable,National Trends,2040,0,€/MWh,TYNDP 2024
+Onshore Wind,OPEX_variable,Distributed Energy,2040,0,€/MWh,TYNDP 2024
+Onshore Wind,OPEX_variable,Global Ambition,2040,0,€/MWh,TYNDP 2024
+Onshore Wind,OPEX_variable,National Trends,2045,0,€/MWh,TYNDP 2024
+Onshore Wind,OPEX_variable,Distributed Energy,2045,0,€/MWh,TYNDP 2024
+Onshore Wind,OPEX_variable,Global Ambition,2045,0,€/MWh,TYNDP 2024
+Onshore Wind,OPEX_variable,National Trends,2050,0,€/MWh,TYNDP 2024
+Onshore Wind,OPEX_variable,Distributed Energy,2050,0,€/MWh,TYNDP 2024
+Onshore Wind,OPEX_variable,Global Ambition,2050,0,€/MWh,TYNDP 2024
+"Offshore Wind, Fixed AC Radial",OPEX_variable,National Trends,2030,0,€/MWh,TYNDP 2024
+"Offshore Wind, Fixed AC Radial",OPEX_variable,Distributed Energy,2030,0,€/MWh,TYNDP 2024
+"Offshore Wind, Fixed AC Radial",OPEX_variable,Global Ambition,2030,0,€/MWh,TYNDP 2024
+"Offshore Wind, Fixed AC Radial",OPEX_variable,National Trends,2035,0,€/MWh,TYNDP 2024
+"Offshore Wind, Fixed AC Radial",OPEX_variable,Distributed Energy,2035,0,€/MWh,TYNDP 2024
+"Offshore Wind, Fixed AC Radial",OPEX_variable,Global Ambition,2035,0,€/MWh,TYNDP 2024
+"Offshore Wind, Fixed AC Radial",OPEX_variable,National Trends,2040,0,€/MWh,TYNDP 2024
+"Offshore Wind, Fixed AC Radial",OPEX_variable,Distributed Energy,2040,0,€/MWh,TYNDP 2024
+"Offshore Wind, Fixed AC Radial",OPEX_variable,Global Ambition,2040,0,€/MWh,TYNDP 2024
+"Offshore Wind, Fixed AC Radial",OPEX_variable,National Trends,2045,0,€/MWh,TYNDP 2024
+"Offshore Wind, Fixed AC Radial",OPEX_variable,Distributed Energy,2045,0,€/MWh,TYNDP 2024
+"Offshore Wind, Fixed AC Radial",OPEX_variable,Global Ambition,2045,0,€/MWh,TYNDP 2024
+"Offshore Wind, Fixed AC Radial",OPEX_variable,National Trends,2050,0,€/MWh,TYNDP 2024
+"Offshore Wind, Fixed AC Radial",OPEX_variable,Distributed Energy,2050,0,€/MWh,TYNDP 2024
+"Offshore Wind, Fixed AC Radial",OPEX_variable,Global Ambition,2050,0,€/MWh,TYNDP 2024
+"Offshore Wind, Fixed DC Radial",OPEX_variable,National Trends,2030,0,€/MWh,TYNDP 2024
+"Offshore Wind, Fixed DC Radial",OPEX_variable,Distributed Energy,2030,0,€/MWh,TYNDP 2024
+"Offshore Wind, Fixed DC Radial",OPEX_variable,Global Ambition,2030,0,€/MWh,TYNDP 2024
+"Offshore Wind, Fixed DC Radial",OPEX_variable,National Trends,2035,0,€/MWh,TYNDP 2024
+"Offshore Wind, Fixed DC Radial",OPEX_variable,Distributed Energy,2035,0,€/MWh,TYNDP 2024
+"Offshore Wind, Fixed DC Radial",OPEX_variable,Global Ambition,2035,0,€/MWh,TYNDP 2024
+"Offshore Wind, Fixed DC Radial",OPEX_variable,National Trends,2040,0,€/MWh,TYNDP 2024
+"Offshore Wind, Fixed DC Radial",OPEX_variable,Distributed Energy,2040,0,€/MWh,TYNDP 2024
+"Offshore Wind, Fixed DC Radial",OPEX_variable,Global Ambition,2040,0,€/MWh,TYNDP 2024
+"Offshore Wind, Fixed DC Radial",OPEX_variable,National Trends,2045,0,€/MWh,TYNDP 2024
+"Offshore Wind, Fixed DC Radial",OPEX_variable,Distributed Energy,2045,0,€/MWh,TYNDP 2024
+"Offshore Wind, Fixed DC Radial",OPEX_variable,Global Ambition,2045,0,€/MWh,TYNDP 2024
+"Offshore Wind, Fixed DC Radial",OPEX_variable,National Trends,2050,0,€/MWh,TYNDP 2024
+"Offshore Wind, Fixed DC Radial",OPEX_variable,Distributed Energy,2050,0,€/MWh,TYNDP 2024
+"Offshore Wind, Fixed DC Radial",OPEX_variable,Global Ambition,2050,0,€/MWh,TYNDP 2024
+"Offshore Wind, Fixed Hub",OPEX_variable,National Trends,2030,0,€/MWh,TYNDP 2024
+"Offshore Wind, Fixed Hub",OPEX_variable,Distributed Energy,2030,0,€/MWh,TYNDP 2024
+"Offshore Wind, Fixed Hub",OPEX_variable,Global Ambition,2030,0,€/MWh,TYNDP 2024
+"Offshore Wind, Fixed Hub",OPEX_variable,National Trends,2035,0,€/MWh,TYNDP 2024
+"Offshore Wind, Fixed Hub",OPEX_variable,Distributed Energy,2035,0,€/MWh,TYNDP 2024
+"Offshore Wind, Fixed Hub",OPEX_variable,Global Ambition,2035,0,€/MWh,TYNDP 2024
+"Offshore Wind, Fixed Hub",OPEX_variable,National Trends,2040,0,€/MWh,TYNDP 2024
+"Offshore Wind, Fixed Hub",OPEX_variable,Distributed Energy,2040,0,€/MWh,TYNDP 2024
+"Offshore Wind, Fixed Hub",OPEX_variable,Global Ambition,2040,0,€/MWh,TYNDP 2024
+"Offshore Wind, Fixed Hub",OPEX_variable,National Trends,2045,0,€/MWh,TYNDP 2024
+"Offshore Wind, Fixed Hub",OPEX_variable,Distributed Energy,2045,0,€/MWh,TYNDP 2024
+"Offshore Wind, Fixed Hub",OPEX_variable,Global Ambition,2045,0,€/MWh,TYNDP 2024
+"Offshore Wind, Fixed Hub",OPEX_variable,National Trends,2050,0,€/MWh,TYNDP 2024
+"Offshore Wind, Fixed Hub",OPEX_variable,Distributed Energy,2050,0,€/MWh,TYNDP 2024
+"Offshore Wind, Fixed Hub",OPEX_variable,Global Ambition,2050,0,€/MWh,TYNDP 2024
+"Offshore Wind, Floating AC Radial",OPEX_variable,National Trends,2030,0,€/MWh,TYNDP 2024
+"Offshore Wind, Floating AC Radial",OPEX_variable,Distributed Energy,2030,0,€/MWh,TYNDP 2024
+"Offshore Wind, Floating AC Radial",OPEX_variable,Global Ambition,2030,0,€/MWh,TYNDP 2024
+"Offshore Wind, Floating AC Radial",OPEX_variable,National Trends,2035,0,€/MWh,TYNDP 2024
+"Offshore Wind, Floating AC Radial",OPEX_variable,Distributed Energy,2035,0,€/MWh,TYNDP 2024
+"Offshore Wind, Floating AC Radial",OPEX_variable,Global Ambition,2035,0,€/MWh,TYNDP 2024
+"Offshore Wind, Floating AC Radial",OPEX_variable,National Trends,2040,0,€/MWh,TYNDP 2024
+"Offshore Wind, Floating AC Radial",OPEX_variable,Distributed Energy,2040,0,€/MWh,TYNDP 2024
+"Offshore Wind, Floating AC Radial",OPEX_variable,Global Ambition,2040,0,€/MWh,TYNDP 2024
+"Offshore Wind, Floating AC Radial",OPEX_variable,National Trends,2045,0,€/MWh,TYNDP 2024
+"Offshore Wind, Floating AC Radial",OPEX_variable,Distributed Energy,2045,0,€/MWh,TYNDP 2024
+"Offshore Wind, Floating AC Radial",OPEX_variable,Global Ambition,2045,0,€/MWh,TYNDP 2024
+"Offshore Wind, Floating AC Radial",OPEX_variable,National Trends,2050,0,€/MWh,TYNDP 2024
+"Offshore Wind, Floating AC Radial",OPEX_variable,Distributed Energy,2050,0,€/MWh,TYNDP 2024
+"Offshore Wind, Floating AC Radial",OPEX_variable,Global Ambition,2050,0,€/MWh,TYNDP 2024
+"Offshore Wind, Floating DC Radial",OPEX_variable,National Trends,2030,0,€/MWh,TYNDP 2024
+"Offshore Wind, Floating DC Radial",OPEX_variable,Distributed Energy,2030,0,€/MWh,TYNDP 2024
+"Offshore Wind, Floating DC Radial",OPEX_variable,Global Ambition,2030,0,€/MWh,TYNDP 2024
+"Offshore Wind, Floating DC Radial",OPEX_variable,National Trends,2035,0,€/MWh,TYNDP 2024
+"Offshore Wind, Floating DC Radial",OPEX_variable,Distributed Energy,2035,0,€/MWh,TYNDP 2024
+"Offshore Wind, Floating DC Radial",OPEX_variable,Global Ambition,2035,0,€/MWh,TYNDP 2024
+"Offshore Wind, Floating DC Radial",OPEX_variable,National Trends,2040,0,€/MWh,TYNDP 2024
+"Offshore Wind, Floating DC Radial",OPEX_variable,Distributed Energy,2040,0,€/MWh,TYNDP 2024
+"Offshore Wind, Floating DC Radial",OPEX_variable,Global Ambition,2040,0,€/MWh,TYNDP 2024
+"Offshore Wind, Floating DC Radial",OPEX_variable,National Trends,2045,0,€/MWh,TYNDP 2024
+"Offshore Wind, Floating DC Radial",OPEX_variable,Distributed Energy,2045,0,€/MWh,TYNDP 2024
+"Offshore Wind, Floating DC Radial",OPEX_variable,Global Ambition,2045,0,€/MWh,TYNDP 2024
+"Offshore Wind, Floating DC Radial",OPEX_variable,National Trends,2050,0,€/MWh,TYNDP 2024
+"Offshore Wind, Floating DC Radial",OPEX_variable,Distributed Energy,2050,0,€/MWh,TYNDP 2024
+"Offshore Wind, Floating DC Radial",OPEX_variable,Global Ambition,2050,0,€/MWh,TYNDP 2024
+"Offshore Wind, Floating Hub",OPEX_variable,National Trends,2030,0,€/MWh,TYNDP 2024
+"Offshore Wind, Floating Hub",OPEX_variable,Distributed Energy,2030,0,€/MWh,TYNDP 2024
+"Offshore Wind, Floating Hub",OPEX_variable,Global Ambition,2030,0,€/MWh,TYNDP 2024
+"Offshore Wind, Floating Hub",OPEX_variable,National Trends,2035,0,€/MWh,TYNDP 2024
+"Offshore Wind, Floating Hub",OPEX_variable,Distributed Energy,2035,0,€/MWh,TYNDP 2024
+"Offshore Wind, Floating Hub",OPEX_variable,Global Ambition,2035,0,€/MWh,TYNDP 2024
+"Offshore Wind, Floating Hub",OPEX_variable,National Trends,2040,0,€/MWh,TYNDP 2024
+"Offshore Wind, Floating Hub",OPEX_variable,Distributed Energy,2040,0,€/MWh,TYNDP 2024
+"Offshore Wind, Floating Hub",OPEX_variable,Global Ambition,2040,0,€/MWh,TYNDP 2024
+"Offshore Wind, Floating Hub",OPEX_variable,National Trends,2045,0,€/MWh,TYNDP 2024
+"Offshore Wind, Floating Hub",OPEX_variable,Distributed Energy,2045,0,€/MWh,TYNDP 2024
+"Offshore Wind, Floating Hub",OPEX_variable,Global Ambition,2045,0,€/MWh,TYNDP 2024
+"Offshore Wind, Floating Hub",OPEX_variable,National Trends,2050,0,€/MWh,TYNDP 2024
+"Offshore Wind, Floating Hub",OPEX_variable,Distributed Energy,2050,0,€/MWh,TYNDP 2024
+"Offshore Wind, Floating Hub",OPEX_variable,Global Ambition,2050,0,€/MWh,TYNDP 2024
+Nuclear,OPEX_variable,National Trends,2030,0,€/MWh,TYNDP 2024
+Nuclear,OPEX_variable,Distributed Energy,2030,0,€/MWh,TYNDP 2024
+Nuclear,OPEX_variable,Global Ambition,2030,0,€/MWh,TYNDP 2024
+Nuclear,OPEX_variable,National Trends,2035,0,€/MWh,TYNDP 2024
+Nuclear,OPEX_variable,Distributed Energy,2035,0,€/MWh,TYNDP 2024
+Nuclear,OPEX_variable,Global Ambition,2035,0,€/MWh,TYNDP 2024
+Nuclear,OPEX_variable,National Trends,2040,0,€/MWh,TYNDP 2024
+Nuclear,OPEX_variable,Distributed Energy,2040,0,€/MWh,TYNDP 2024
+Nuclear,OPEX_variable,Global Ambition,2040,0,€/MWh,TYNDP 2024
+Nuclear,OPEX_variable,National Trends,2045,0,€/MWh,TYNDP 2024
+Nuclear,OPEX_variable,Distributed Energy,2045,0,€/MWh,TYNDP 2024
+Nuclear,OPEX_variable,Global Ambition,2045,0,€/MWh,TYNDP 2024
+Nuclear,OPEX_variable,National Trends,2050,0,€/MWh,TYNDP 2024
+Nuclear,OPEX_variable,Distributed Energy,2050,0,€/MWh,TYNDP 2024
+Nuclear,OPEX_variable,Global Ambition,2050,0,€/MWh,TYNDP 2024
+Hydro,OPEX_variable,National Trends,2030,0,€/MWh,TYNDP 2024
+Hydro,OPEX_variable,Distributed Energy,2030,0,€/MWh,TYNDP 2024
+Hydro,OPEX_variable,Global Ambition,2030,0,€/MWh,TYNDP 2024
+Hydro,OPEX_variable,National Trends,2035,0,€/MWh,TYNDP 2024
+Hydro,OPEX_variable,Distributed Energy,2035,0,€/MWh,TYNDP 2024
+Hydro,OPEX_variable,Global Ambition,2035,0,€/MWh,TYNDP 2024
+Hydro,OPEX_variable,National Trends,2040,0,€/MWh,TYNDP 2024
+Hydro,OPEX_variable,Distributed Energy,2040,0,€/MWh,TYNDP 2024
+Hydro,OPEX_variable,Global Ambition,2040,0,€/MWh,TYNDP 2024
+Hydro,OPEX_variable,National Trends,2045,0,€/MWh,TYNDP 2024
+Hydro,OPEX_variable,Distributed Energy,2045,0,€/MWh,TYNDP 2024
+Hydro,OPEX_variable,Global Ambition,2045,0,€/MWh,TYNDP 2024
+Hydro,OPEX_variable,National Trends,2050,0,€/MWh,TYNDP 2024
+Hydro,OPEX_variable,Distributed Energy,2050,0,€/MWh,TYNDP 2024
+Hydro,OPEX_variable,Global Ambition,2050,0,€/MWh,TYNDP 2024
+Onshore Electrolysis,OPEX_variable,National Trends,2030,0,€/MWh,TYNDP 2024
+Onshore Electrolysis,OPEX_variable,Distributed Energy,2030,0,€/MWh,TYNDP 2024
+Onshore Electrolysis,OPEX_variable,Global Ambition,2030,0,€/MWh,TYNDP 2024
+Onshore Electrolysis,OPEX_variable,National Trends,2035,0,€/MWh,TYNDP 2024
+Onshore Electrolysis,OPEX_variable,Distributed Energy,2035,0,€/MWh,TYNDP 2024
+Onshore Electrolysis,OPEX_variable,Global Ambition,2035,0,€/MWh,TYNDP 2024
+Onshore Electrolysis,OPEX_variable,National Trends,2040,0,€/MWh,TYNDP 2024
+Onshore Electrolysis,OPEX_variable,Distributed Energy,2040,0,€/MWh,TYNDP 2024
+Onshore Electrolysis,OPEX_variable,Global Ambition,2040,0,€/MWh,TYNDP 2024
+Onshore Electrolysis,OPEX_variable,National Trends,2045,0,€/MWh,TYNDP 2024
+Onshore Electrolysis,OPEX_variable,Distributed Energy,2045,0,€/MWh,TYNDP 2024
+Onshore Electrolysis,OPEX_variable,Global Ambition,2045,0,€/MWh,TYNDP 2024
+Onshore Electrolysis,OPEX_variable,National Trends,2050,0,€/MWh,TYNDP 2024
+Onshore Electrolysis,OPEX_variable,Distributed Energy,2050,0,€/MWh,TYNDP 2024
+Onshore Electrolysis,OPEX_variable,Global Ambition,2050,0,€/MWh,TYNDP 2024
+Offshore Electrolysis,OPEX_variable,National Trends,2030,0,€/MWh,TYNDP 2024
+Offshore Electrolysis,OPEX_variable,Distributed Energy,2030,0,€/MWh,TYNDP 2024
+Offshore Electrolysis,OPEX_variable,Global Ambition,2030,0,€/MWh,TYNDP 2024
+Offshore Electrolysis,OPEX_variable,National Trends,2035,0,€/MWh,TYNDP 2024
+Offshore Electrolysis,OPEX_variable,Distributed Energy,2035,0,€/MWh,TYNDP 2024
+Offshore Electrolysis,OPEX_variable,Global Ambition,2035,0,€/MWh,TYNDP 2024
+Offshore Electrolysis,OPEX_variable,National Trends,2040,0,€/MWh,TYNDP 2024
+Offshore Electrolysis,OPEX_variable,Distributed Energy,2040,0,€/MWh,TYNDP 2024
+Offshore Electrolysis,OPEX_variable,Global Ambition,2040,0,€/MWh,TYNDP 2024
+Offshore Electrolysis,OPEX_variable,National Trends,2045,0,€/MWh,TYNDP 2024
+Offshore Electrolysis,OPEX_variable,Distributed Energy,2045,0,€/MWh,TYNDP 2024
+Offshore Electrolysis,OPEX_variable,Global Ambition,2045,0,€/MWh,TYNDP 2024
+Offshore Electrolysis,OPEX_variable,National Trends,2050,0,€/MWh,TYNDP 2024
+Offshore Electrolysis,OPEX_variable,Distributed Energy,2050,0,€/MWh,TYNDP 2024
+Offshore Electrolysis,OPEX_variable,Global Ambition,2050,0,€/MWh,TYNDP 2024
+Hydrogen-to-Power,OPEX_variable,National Trends,2030,0,€/MWh,TYNDP 2024
+Hydrogen-to-Power,OPEX_variable,Distributed Energy,2030,0,€/MWh,TYNDP 2024
+Hydrogen-to-Power,OPEX_variable,Global Ambition,2030,0,€/MWh,TYNDP 2024
+Hydrogen-to-Power,OPEX_variable,National Trends,2035,0,€/MWh,TYNDP 2024
+Hydrogen-to-Power,OPEX_variable,Distributed Energy,2035,0,€/MWh,TYNDP 2024
+Hydrogen-to-Power,OPEX_variable,Global Ambition,2035,0,€/MWh,TYNDP 2024
+Hydrogen-to-Power,OPEX_variable,National Trends,2040,0,€/MWh,TYNDP 2024
+Hydrogen-to-Power,OPEX_variable,Distributed Energy,2040,0,€/MWh,TYNDP 2024
+Hydrogen-to-Power,OPEX_variable,Global Ambition,2040,0,€/MWh,TYNDP 2024
+Hydrogen-to-Power,OPEX_variable,National Trends,2045,0,€/MWh,TYNDP 2024
+Hydrogen-to-Power,OPEX_variable,Distributed Energy,2045,0,€/MWh,TYNDP 2024
+Hydrogen-to-Power,OPEX_variable,Global Ambition,2045,0,€/MWh,TYNDP 2024
+Hydrogen-to-Power,OPEX_variable,National Trends,2050,0,€/MWh,TYNDP 2024
+Hydrogen-to-Power,OPEX_variable,Distributed Energy,2050,0,€/MWh,TYNDP 2024
+Hydrogen-to-Power,OPEX_variable,Global Ambition,2050,0,€/MWh,TYNDP 2024
+"Battery, Residential (2.5C)",OPEX_variable,National Trends,2030,0,€/MWh,TYNDP 2024
+"Battery, Residential (2.5C)",OPEX_variable,Distributed Energy,2030,0,€/MWh,TYNDP 2024
+"Battery, Residential (2.5C)",OPEX_variable,Global Ambition,2030,0,€/MWh,TYNDP 2024
+"Battery, Residential (2.5C)",OPEX_variable,National Trends,2035,0,€/MWh,TYNDP 2024
+"Battery, Residential (2.5C)",OPEX_variable,Distributed Energy,2035,0,€/MWh,TYNDP 2024
+"Battery, Residential (2.5C)",OPEX_variable,Global Ambition,2035,0,€/MWh,TYNDP 2024
+"Battery, Residential (2.5C)",OPEX_variable,National Trends,2040,0,€/MWh,TYNDP 2024
+"Battery, Residential (2.5C)",OPEX_variable,Distributed Energy,2040,0,€/MWh,TYNDP 2024
+"Battery, Residential (2.5C)",OPEX_variable,Global Ambition,2040,0,€/MWh,TYNDP 2024
+"Battery, Residential (2.5C)",OPEX_variable,National Trends,2045,0,€/MWh,TYNDP 2024
+"Battery, Residential (2.5C)",OPEX_variable,Distributed Energy,2045,0,€/MWh,TYNDP 2024
+"Battery, Residential (2.5C)",OPEX_variable,Global Ambition,2045,0,€/MWh,TYNDP 2024
+"Battery, Residential (2.5C)",OPEX_variable,National Trends,2050,0,€/MWh,TYNDP 2024
+"Battery, Residential (2.5C)",OPEX_variable,Distributed Energy,2050,0,€/MWh,TYNDP 2024
+"Battery, Residential (2.5C)",OPEX_variable,Global Ambition,2050,0,€/MWh,TYNDP 2024
+"Battery, Utility (2C)",OPEX_variable,National Trends,2030,0,€/MWh,TYNDP 2024
+"Battery, Utility (2C)",OPEX_variable,Distributed Energy,2030,0,€/MWh,TYNDP 2024
+"Battery, Utility (2C)",OPEX_variable,Global Ambition,2030,0,€/MWh,TYNDP 2024
+"Battery, Utility (2C)",OPEX_variable,National Trends,2035,0,€/MWh,TYNDP 2024
+"Battery, Utility (2C)",OPEX_variable,Distributed Energy,2035,0,€/MWh,TYNDP 2024
+"Battery, Utility (2C)",OPEX_variable,Global Ambition,2035,0,€/MWh,TYNDP 2024
+"Battery, Utility (2C)",OPEX_variable,National Trends,2040,0,€/MWh,TYNDP 2024
+"Battery, Utility (2C)",OPEX_variable,Distributed Energy,2040,0,€/MWh,TYNDP 2024
+"Battery, Utility (2C)",OPEX_variable,Global Ambition,2040,0,€/MWh,TYNDP 2024
+"Battery, Utility (2C)",OPEX_variable,National Trends,2045,0,€/MWh,TYNDP 2024
+"Battery, Utility (2C)",OPEX_variable,Distributed Energy,2045,0,€/MWh,TYNDP 2024
+"Battery, Utility (2C)",OPEX_variable,Global Ambition,2045,0,€/MWh,TYNDP 2024
+"Battery, Utility (2C)",OPEX_variable,National Trends,2050,0,€/MWh,TYNDP 2024
+"Battery, Utility (2C)",OPEX_variable,Distributed Energy,2050,0,€/MWh,TYNDP 2024
+"Battery, Utility (2C)",OPEX_variable,Global Ambition,2050,0,€/MWh,TYNDP 2024
+"Battery, Utility (4C)",OPEX_variable,National Trends,2030,0,€/MWh,TYNDP 2024
+"Battery, Utility (4C)",OPEX_variable,Distributed Energy,2030,0,€/MWh,TYNDP 2024
+"Battery, Utility (4C)",OPEX_variable,Global Ambition,2030,0,€/MWh,TYNDP 2024
+"Battery, Utility (4C)",OPEX_variable,National Trends,2035,0,€/MWh,TYNDP 2024
+"Battery, Utility (4C)",OPEX_variable,Distributed Energy,2035,0,€/MWh,TYNDP 2024
+"Battery, Utility (4C)",OPEX_variable,Global Ambition,2035,0,€/MWh,TYNDP 2024
+"Battery, Utility (4C)",OPEX_variable,National Trends,2040,0,€/MWh,TYNDP 2024
+"Battery, Utility (4C)",OPEX_variable,Distributed Energy,2040,0,€/MWh,TYNDP 2024
+"Battery, Utility (4C)",OPEX_variable,Global Ambition,2040,0,€/MWh,TYNDP 2024
+"Battery, Utility (4C)",OPEX_variable,National Trends,2045,0,€/MWh,TYNDP 2024
+"Battery, Utility (4C)",OPEX_variable,Distributed Energy,2045,0,€/MWh,TYNDP 2024
+"Battery, Utility (4C)",OPEX_variable,Global Ambition,2045,0,€/MWh,TYNDP 2024
+"Battery, Utility (4C)",OPEX_variable,National Trends,2050,0,€/MWh,TYNDP 2024
+"Battery, Utility (4C)",OPEX_variable,Distributed Energy,2050,0,€/MWh,TYNDP 2024
+"Battery, Utility (4C)",OPEX_variable,Global Ambition,2050,0,€/MWh,TYNDP 2024
+Pumped Hydropower,OPEX_variable,National Trends,2030,0,€/MWh,TYNDP 2024
+Pumped Hydropower,OPEX_variable,Distributed Energy,2030,0,€/MWh,TYNDP 2024
+Pumped Hydropower,OPEX_variable,Global Ambition,2030,0,€/MWh,TYNDP 2024
+Pumped Hydropower,OPEX_variable,National Trends,2035,0,€/MWh,TYNDP 2024
+Pumped Hydropower,OPEX_variable,Distributed Energy,2035,0,€/MWh,TYNDP 2024
+Pumped Hydropower,OPEX_variable,Global Ambition,2035,0,€/MWh,TYNDP 2024
+Pumped Hydropower,OPEX_variable,National Trends,2040,0,€/MWh,TYNDP 2024
+Pumped Hydropower,OPEX_variable,Distributed Energy,2040,0,€/MWh,TYNDP 2024
+Pumped Hydropower,OPEX_variable,Global Ambition,2040,0,€/MWh,TYNDP 2024
+Pumped Hydropower,OPEX_variable,National Trends,2045,0,€/MWh,TYNDP 2024
+Pumped Hydropower,OPEX_variable,Distributed Energy,2045,0,€/MWh,TYNDP 2024
+Pumped Hydropower,OPEX_variable,Global Ambition,2045,0,€/MWh,TYNDP 2024
+Pumped Hydropower,OPEX_variable,National Trends,2050,0,€/MWh,TYNDP 2024
+Pumped Hydropower,OPEX_variable,Distributed Energy,2050,0,€/MWh,TYNDP 2024
+Pumped Hydropower,OPEX_variable,Global Ambition,2050,0,€/MWh,TYNDP 2024
+Hydrogen Salt Caverns,OPEX_variable,National Trends,2030,0.00002,€/MWh,TYNDP 2024
+Hydrogen Salt Caverns,OPEX_variable,Distributed Energy,2030,0.00002,€/MWh,TYNDP 2024
+Hydrogen Salt Caverns,OPEX_variable,Global Ambition,2030,0.00002,€/MWh,TYNDP 2024
+Hydrogen Salt Caverns,OPEX_variable,National Trends,2035,0.0000175,€/MWh,TYNDP 2024
+Hydrogen Salt Caverns,OPEX_variable,Distributed Energy,2035,0.0000175,€/MWh,TYNDP 2024
+Hydrogen Salt Caverns,OPEX_variable,Global Ambition,2035,0.0000175,€/MWh,TYNDP 2024
+Hydrogen Salt Caverns,OPEX_variable,National Trends,2040,0.000015,€/MWh,TYNDP 2024
+Hydrogen Salt Caverns,OPEX_variable,Distributed Energy,2040,0.000015,€/MWh,TYNDP 2024
+Hydrogen Salt Caverns,OPEX_variable,Global Ambition,2040,0.000015,€/MWh,TYNDP 2024
+Hydrogen Salt Caverns,OPEX_variable,National Trends,2045,0.0000135,€/MWh,TYNDP 2024
+Hydrogen Salt Caverns,OPEX_variable,Distributed Energy,2045,0.0000135,€/MWh,TYNDP 2024
+Hydrogen Salt Caverns,OPEX_variable,Global Ambition,2045,0.0000135,€/MWh,TYNDP 2024
+Hydrogen Salt Caverns,OPEX_variable,National Trends,2050,0.000012,€/MWh,TYNDP 2024
+Hydrogen Salt Caverns,OPEX_variable,Distributed Energy,2050,0.000012,€/MWh,TYNDP 2024
+Hydrogen Salt Caverns,OPEX_variable,Global Ambition,2050,0.000012,€/MWh,TYNDP 2024
+Hydrogen Reservoirs,OPEX_variable,National Trends,2030,0,€/MWh,TYNDP 2024
+Hydrogen Reservoirs,OPEX_variable,Distributed Energy,2030,0,€/MWh,TYNDP 2024
+Hydrogen Reservoirs,OPEX_variable,Global Ambition,2030,0,€/MWh,TYNDP 2024
+Hydrogen Reservoirs,OPEX_variable,National Trends,2035,0,€/MWh,TYNDP 2024
+Hydrogen Reservoirs,OPEX_variable,Distributed Energy,2035,0,€/MWh,TYNDP 2024
+Hydrogen Reservoirs,OPEX_variable,Global Ambition,2035,0,€/MWh,TYNDP 2024
+Hydrogen Reservoirs,OPEX_variable,National Trends,2040,0,€/MWh,TYNDP 2024
+Hydrogen Reservoirs,OPEX_variable,Distributed Energy,2040,0,€/MWh,TYNDP 2024
+Hydrogen Reservoirs,OPEX_variable,Global Ambition,2040,0,€/MWh,TYNDP 2024
+Hydrogen Reservoirs,OPEX_variable,National Trends,2045,0,€/MWh,TYNDP 2024
+Hydrogen Reservoirs,OPEX_variable,Distributed Energy,2045,0,€/MWh,TYNDP 2024
+Hydrogen Reservoirs,OPEX_variable,Global Ambition,2045,0,€/MWh,TYNDP 2024
+Hydrogen Reservoirs,OPEX_variable,National Trends,2050,0,€/MWh,TYNDP 2024
+Hydrogen Reservoirs,OPEX_variable,Distributed Energy,2050,0,€/MWh,TYNDP 2024
+Hydrogen Reservoirs,OPEX_variable,Global Ambition,2050,0,€/MWh,TYNDP 2024
+Onshore AC Transmission,OPEX_variable,National Trends,2030,0,€/MWh,TYNDP 2024
+Onshore AC Transmission,OPEX_variable,Distributed Energy,2030,0,€/MWh,TYNDP 2024
+Onshore AC Transmission,OPEX_variable,Global Ambition,2030,0,€/MWh,TYNDP 2024
+Onshore AC Transmission,OPEX_variable,National Trends,2035,0,€/MWh,TYNDP 2024
+Onshore AC Transmission,OPEX_variable,Distributed Energy,2035,0,€/MWh,TYNDP 2024
+Onshore AC Transmission,OPEX_variable,Global Ambition,2035,0,€/MWh,TYNDP 2024
+Onshore AC Transmission,OPEX_variable,National Trends,2040,0,€/MWh,TYNDP 2024
+Onshore AC Transmission,OPEX_variable,Distributed Energy,2040,0,€/MWh,TYNDP 2024
+Onshore AC Transmission,OPEX_variable,Global Ambition,2040,0,€/MWh,TYNDP 2024
+Onshore AC Transmission,OPEX_variable,National Trends,2045,0,€/MWh,TYNDP 2024
+Onshore AC Transmission,OPEX_variable,Distributed Energy,2045,0,€/MWh,TYNDP 2024
+Onshore AC Transmission,OPEX_variable,Global Ambition,2045,0,€/MWh,TYNDP 2024
+Onshore AC Transmission,OPEX_variable,National Trends,2050,0,€/MWh,TYNDP 2024
+Onshore AC Transmission,OPEX_variable,Distributed Energy,2050,0,€/MWh,TYNDP 2024
+Onshore AC Transmission,OPEX_variable,Global Ambition,2050,0,€/MWh,TYNDP 2024
+Onshore Hydrogen Pipeline,OPEX_variable,National Trends,2030,0,€/MWh,TYNDP 2024
+Onshore Hydrogen Pipeline,OPEX_variable,Distributed Energy,2030,0,€/MWh,TYNDP 2024
+Onshore Hydrogen Pipeline,OPEX_variable,Global Ambition,2030,0,€/MWh,TYNDP 2024
+Onshore Hydrogen Pipeline,OPEX_variable,National Trends,2035,0,€/MWh,TYNDP 2024
+Onshore Hydrogen Pipeline,OPEX_variable,Distributed Energy,2035,0,€/MWh,TYNDP 2024
+Onshore Hydrogen Pipeline,OPEX_variable,Global Ambition,2035,0,€/MWh,TYNDP 2024
+Onshore Hydrogen Pipeline,OPEX_variable,National Trends,2040,0,€/MWh,TYNDP 2024
+Onshore Hydrogen Pipeline,OPEX_variable,Distributed Energy,2040,0,€/MWh,TYNDP 2024
+Onshore Hydrogen Pipeline,OPEX_variable,Global Ambition,2040,0,€/MWh,TYNDP 2024
+Onshore Hydrogen Pipeline,OPEX_variable,National Trends,2045,0,€/MWh,TYNDP 2024
+Onshore Hydrogen Pipeline,OPEX_variable,Distributed Energy,2045,0,€/MWh,TYNDP 2024
+Onshore Hydrogen Pipeline,OPEX_variable,Global Ambition,2045,0,€/MWh,TYNDP 2024
+Onshore Hydrogen Pipeline,OPEX_variable,National Trends,2050,0,€/MWh,TYNDP 2024
+Onshore Hydrogen Pipeline,OPEX_variable,Distributed Energy,2050,0,€/MWh,TYNDP 2024
+Onshore Hydrogen Pipeline,OPEX_variable,Global Ambition,2050,0,€/MWh,TYNDP 2024
+Offshore AC Transmission,OPEX_variable,National Trends,2030,0,€/MWh,TYNDP 2024
+Offshore AC Transmission,OPEX_variable,Distributed Energy,2030,0,€/MWh,TYNDP 2024
+Offshore AC Transmission,OPEX_variable,Global Ambition,2030,0,€/MWh,TYNDP 2024
+Offshore AC Transmission,OPEX_variable,National Trends,2035,0,€/MWh,TYNDP 2024
+Offshore AC Transmission,OPEX_variable,Distributed Energy,2035,0,€/MWh,TYNDP 2024
+Offshore AC Transmission,OPEX_variable,Global Ambition,2035,0,€/MWh,TYNDP 2024
+Offshore AC Transmission,OPEX_variable,National Trends,2040,0,€/MWh,TYNDP 2024
+Offshore AC Transmission,OPEX_variable,Distributed Energy,2040,0,€/MWh,TYNDP 2024
+Offshore AC Transmission,OPEX_variable,Global Ambition,2040,0,€/MWh,TYNDP 2024
+Offshore AC Transmission,OPEX_variable,National Trends,2045,0,€/MWh,TYNDP 2024
+Offshore AC Transmission,OPEX_variable,Distributed Energy,2045,0,€/MWh,TYNDP 2024
+Offshore AC Transmission,OPEX_variable,Global Ambition,2045,0,€/MWh,TYNDP 2024
+Offshore AC Transmission,OPEX_variable,National Trends,2050,0,€/MWh,TYNDP 2024
+Offshore AC Transmission,OPEX_variable,Distributed Energy,2050,0,€/MWh,TYNDP 2024
+Offshore AC Transmission,OPEX_variable,Global Ambition,2050,0,€/MWh,TYNDP 2024
+Offshore HVDC Transmission,OPEX_variable,National Trends,2030,0,€/MWh,TYNDP 2024
+Offshore HVDC Transmission,OPEX_variable,Distributed Energy,2030,0,€/MWh,TYNDP 2024
+Offshore HVDC Transmission,OPEX_variable,Global Ambition,2030,0,€/MWh,TYNDP 2024
+Offshore HVDC Transmission,OPEX_variable,National Trends,2035,0,€/MWh,TYNDP 2024
+Offshore HVDC Transmission,OPEX_variable,Distributed Energy,2035,0,€/MWh,TYNDP 2024
+Offshore HVDC Transmission,OPEX_variable,Global Ambition,2035,0,€/MWh,TYNDP 2024
+Offshore HVDC Transmission,OPEX_variable,National Trends,2040,0,€/MWh,TYNDP 2024
+Offshore HVDC Transmission,OPEX_variable,Distributed Energy,2040,0,€/MWh,TYNDP 2024
+Offshore HVDC Transmission,OPEX_variable,Global Ambition,2040,0,€/MWh,TYNDP 2024
+Offshore HVDC Transmission,OPEX_variable,National Trends,2045,0,€/MWh,TYNDP 2024
+Offshore HVDC Transmission,OPEX_variable,Distributed Energy,2045,0,€/MWh,TYNDP 2024
+Offshore HVDC Transmission,OPEX_variable,Global Ambition,2045,0,€/MWh,TYNDP 2024
+Offshore HVDC Transmission,OPEX_variable,National Trends,2050,0,€/MWh,TYNDP 2024
+Offshore HVDC Transmission,OPEX_variable,Distributed Energy,2050,0,€/MWh,TYNDP 2024
+Offshore HVDC Transmission,OPEX_variable,Global Ambition,2050,0,€/MWh,TYNDP 2024
+Offshore Hydrogen Pipeline,OPEX_variable,National Trends,2030,0,€/MWh,TYNDP 2024
+Offshore Hydrogen Pipeline,OPEX_variable,Distributed Energy,2030,0,€/MWh,TYNDP 2024
+Offshore Hydrogen Pipeline,OPEX_variable,Global Ambition,2030,0,€/MWh,TYNDP 2024
+Offshore Hydrogen Pipeline,OPEX_variable,National Trends,2035,0,€/MWh,TYNDP 2024
+Offshore Hydrogen Pipeline,OPEX_variable,Distributed Energy,2035,0,€/MWh,TYNDP 2024
+Offshore Hydrogen Pipeline,OPEX_variable,Global Ambition,2035,0,€/MWh,TYNDP 2024
+Offshore Hydrogen Pipeline,OPEX_variable,National Trends,2040,0,€/MWh,TYNDP 2024
+Offshore Hydrogen Pipeline,OPEX_variable,Distributed Energy,2040,0,€/MWh,TYNDP 2024
+Offshore Hydrogen Pipeline,OPEX_variable,Global Ambition,2040,0,€/MWh,TYNDP 2024
+Offshore Hydrogen Pipeline,OPEX_variable,National Trends,2045,0,€/MWh,TYNDP 2024
+Offshore Hydrogen Pipeline,OPEX_variable,Distributed Energy,2045,0,€/MWh,TYNDP 2024
+Offshore Hydrogen Pipeline,OPEX_variable,Global Ambition,2045,0,€/MWh,TYNDP 2024
+Offshore Hydrogen Pipeline,OPEX_variable,National Trends,2050,0,€/MWh,TYNDP 2024
+Offshore Hydrogen Pipeline,OPEX_variable,Distributed Energy,2050,0,€/MWh,TYNDP 2024
+Offshore Hydrogen Pipeline,OPEX_variable,Global Ambition,2050,0,€/MWh,TYNDP 2024
